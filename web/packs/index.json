@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "bunnystickers.json"
+  ],
+  "homeserver_url": "https://matrix.catface.ovh"
+}
